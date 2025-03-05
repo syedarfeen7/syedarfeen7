@@ -13,7 +13,7 @@ I'm a **MERN Stack & React Native Developer** with over 3 years of experience in
 - **Tools & Others:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedarfeen7&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedarfeen7&show_icons=true&theme=radical&cache_seconds=60)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedarfeen7&layout=compact&theme=radical)
 
 ### 📫 Let's Connect!
