@@ -17,9 +17,6 @@ I'm a **MERN Stack & React Native Developer** with over 3 years of experience in
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedarfeen7&theme=radical)
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedarfeen7&show_icons=true&theme=radical&cache_seconds=60)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedarfeen7&layout=compact&theme=radical)
-
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-arfeen-93708a211/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedarfeen7890@gmail.com)
