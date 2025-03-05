@@ -14,6 +14,8 @@ I'm a **MERN Stack & React Native Developer** with over 3 years of experience in
 
 ### 📊 GitHub Stats
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedarfeen7&theme=radical)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedarfeen7&theme=radical)
+
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedarfeen7&show_icons=true&theme=radical&cache_seconds=60)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedarfeen7&layout=compact&theme=radical)
